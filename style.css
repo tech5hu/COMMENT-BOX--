@@ -1,5 +1,5 @@
 body {
-    background-color: #EDE4EAFF;
+    background-color: rgb(248, 183, 226);
   }
 
   h3 {
@@ -10,6 +10,5 @@ body {
   form {
     width: 300px;
     margin: auto;
-    color: #F048B5FF;
   }
 
